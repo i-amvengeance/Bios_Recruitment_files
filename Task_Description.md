@@ -22,3 +22,4 @@ This happens by allowing to user to choose an option and perform the function ba
 
 4.**Main1**: This class depicts the basic functions that can be done through student and graduatestudent classes by using getter and setter methods.  
 It also shows a set of functions that can be performed when the class. is typed.  
+Main and Main1 are two entirely different classes and the variables in them are completely independent of each other.  
